@@ -1,5 +1,7 @@
 # harness_framework_poor 🪙
 
+**한국어** | [English](README.en.md)
+
 > 토큰 살 돈이 없어서 만든 하네스.
 
 [jha0313/harness_framework](https://github.com/jha0313/harness_framework)를 가져다 쓰다가, 지갑 사정에 맞게 고친 버전입니다.
