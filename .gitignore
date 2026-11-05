@@ -1,0 +1,28 @@
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# env (키는 .env.example로만 공유)
+.env
+.env.*
+!.env.example
+
+# test outputs
+playwright-report/
+test-results/
+
+# python (harness executor)
+__pycache__/
+.pytest_cache/
+
+# phase execution outputs
+phases/**/phase*-output.json
+phases/**/step*-output.json
+
+# os / editor
+.DS_Store
+Thumbs.db
+
+# claude code 개인 설정 (권한 등)
+.claude/settings.local.json
